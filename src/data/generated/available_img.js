@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual"];
+const availableImg = ["ASEW workshop at ASE 2024","IEEE|ACM(ICSE-SEET)","arXiv Cornell University Open Archives Initiative","SpringerOpen（International Journal of STEM Education）","IEEE (Institute of Electrical and Electronics Engineers)","Frontiers Media SA（Frontiers in AI）","Association for Computing Machinery (ACM)","IEEE","Elsevier（Computers & Electrical Engineering）","MDPI (Multidisciplinary Digital Publishing Institute)"];
